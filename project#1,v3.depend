@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1522529605 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\additemtoarray.c
+
+1522530784 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\deleteitem.c
+
+1522783507 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myString.h"
+	"addItemToArray.h"
+	"readFromFile.h"
+	"writeDataToFile.h"
+	"deleteItem.h"
+	"radixSort.h"
+
+1522530285 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\mystring.h
+	<stdio.h>
+	<stdlib.h>
+
+1522845843 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\cursor.h
+
+1522175516 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\additemtoarray.h
+
+1522175650 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\readfromfile.h
+
+1522504662 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\writedatatofile.h
+
+1522175564 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\deleteitem.h
+
+1522491001 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\radixsort.h
+
+1522782538 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\printarray.c
+
+1522845845 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\radixsort.c
+	"cursor.h"
+
+1522531042 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\readfromfile.c
+	<stdio.h>
+
+1522530896 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\writedatatofile.c
+	<stdio.h>
+
+1522175943 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\mycursor.c
+
+1522176573 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\mycursor.h
+
+1522355652 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\cursor1.c
+	"Cursor1.h"
+
+1522355586 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project#1,v3\cursor1.h
+
+1523281966 source:c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\additemtoarray.c
+
+1523281966 source:c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\deleteitem.c
+
+1555966716 source:c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myString.h"
+	"addItemToArray.h"
+	"readFromFile.h"
+	"writeDataToFile.h"
+	"deleteItem.h"
+	"radixSort.h"
+
+1523281966 c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\mystring.h
+	<stdio.h>
+	<stdlib.h>
+
+1523281966 c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\additemtoarray.h
+
+1523281970 c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\readfromfile.h
+
+1523281970 c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\writedatatofile.h
+
+1523281966 c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\deleteitem.h
+
+1523281968 c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\radixsort.h
+
+1523281968 source:c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\printarray.c
+
+1523281968 source:c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\radixsort.c
+	"cursor.h"
+
+1523281966 c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\cursor.h
+
+1555966504 source:c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\readfromfile.c
+	<stdio.h>
+
+1523281970 source:c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 1\writedatatofile.c
+	<stdio.h>
+
